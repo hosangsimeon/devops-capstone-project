@@ -1,5 +1,8 @@
-# DevOps Capstone Template
+# devops-capstone-project
 
+**Project name:** devops-capstone-project
+
+**Description:** Customer accounts microservice for an e-commerce application. The service provides a RESTful API to create, read, update, delete and list customer accounts. It is developed with Python/Flask using Test Driven Development, automated with CI (GitHub Actions), containerized with Docker and deployed to Kubernetes/OpenShift via a Tekton CD pipeline.
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
