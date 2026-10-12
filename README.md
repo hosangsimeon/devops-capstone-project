@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/hosangsimeon/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 **Project name:** devops-capstone-project
 
 **Description:** Customer accounts microservice for an e-commerce application. The service provides a RESTful API to create, read, update, delete and list customer accounts. It is developed with Python/Flask using Test Driven Development, automated with CI (GitHub Actions), containerized with Docker and deployed to Kubernetes/OpenShift via a Tekton CD pipeline.
